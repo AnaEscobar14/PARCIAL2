@@ -11,7 +11,7 @@
 <div id="menu">
 <img src='foto1.jpg' alt='1. Limpiador Blanca nieves  ' name='fotos1' onclick="mifoto(1)"/>
 <img src='foto2.jpg' alt='2. Jabón líquido Protex' name='fotos2' onclick="mifoto(2)"/>
-<img src='foto3.jpg' alt='3. Desinfectante muliusos Disiciin' name='fotos3' onclick="mifoto(3)"/>
+<img src='foto3.jpg' alt='3. Desinfectante multiusos Disiciin' name='fotos3' onclick="mifoto(3)"/>
 <img src='foto4.jpg' alt='4. Limpiador líquido Lysoform' name='fotos4' onclick="mifoto(4)"/>
 <img src='foto5.jpg' alt='5. Lysol' name='fotos5' onclick="mifoto(5)"/>
 <img src='foto6.jpg' alt='6. Limpiador desinfectante Harpic' name='fotos6' onclick="mifoto(6)"/>
